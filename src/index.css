@@ -1,3 +1,6 @@
+@import url('../src/resources/css/navbar.css');
+@import url('../src/resources/css/slider.css');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
