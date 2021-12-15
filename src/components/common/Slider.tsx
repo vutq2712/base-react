@@ -44,9 +44,9 @@ export const Slider = ()=>{
 
     return (
         <section className="section">
-            <div className="title">
+            {/* <div className="title">
                 <h2><span>/</span>reviews</h2>
-            </div>
+            </div> */}
             <div className="section-center">
                 {people.map((person,personIndex)=>{
                     const {id, image,name,title,quote} = person;
